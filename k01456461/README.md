@@ -10,5 +10,10 @@ Ende des 19. Jahrhunderts trug der Bau der Summerauerbahn und der Bau einer Dona
 Anfang des 21. Jahrhunderts wurde von den Altgrafen Salm-Reifferscheidt das Wahrzeichen der Stadt Schloss Steyregg renoviert, nachdem es 200 Jahre lang leer gestanden hatte.
 Steyregg war im Jahr 2007 Austragungsort der Wasserski Weltmeisterschaften.
 
+## Beispielbild
+
+![picture](https://github.com/MaxReiser/CE_UE_WS17_A4-2/blob/master/k01456461/sample.png "sample.png")
+
+
 
 Quelle: https://de.wikipedia.org/wiki/Steyregg
