@@ -5,4 +5,4 @@ Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste be
 
 Source: https://de.wikipedia.org/wiki/Linz
 
-![Bildtext](bear_face_maria_limberger.jpg "Bear Face")
+![Bildtext](bear_face_maria_limberger.png "Bear Face")
