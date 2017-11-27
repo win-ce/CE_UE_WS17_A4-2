@@ -9,4 +9,4 @@ Bekannt ist die Stadt heute vor allem als Sitz einiger großer Industrieunterneh
 
 Hamburg Hauptbahnhof (privates Foto)
 
-(https://photos.app.goo.gl/qa7dnsButF7mQvQF2)
+![Hamburg Hbf](https://i.imgur.com/pBDkVGu.jpg)
