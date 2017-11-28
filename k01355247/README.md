@@ -33,4 +33,8 @@ Die Orte Trattenbach (Plz: 4453) und Duernbach (keine eigene Plz) sind Nebenorte
 * First Kubb-Club Austria
 * Natursportverein Geoventure
 
+## Taschenfeitel
+![Groesster Taschenfeitel der Welt](193px-Riesenfeitel.jpg)
+Image-Source: [Von Truthlobby - Eigenes Werk, CC BY-SA 3.0, ](https://commons.wikimedia.org/w/index.php?curid=29274378)
+
 Source: [Wikipedia-Artikel: Ternberg](https://de.wikipedia.org/wiki/Ternberg)
