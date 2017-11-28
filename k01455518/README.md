@@ -1,33 +1,37 @@
-Sonnberg im Mühlkreis
-Sonnberg im Mühlkreis ist eine Gemeinde in Oberösterreich im Bezirk Urfahr-Umgebung im oberen Mühlviertel mit 941 Einwohnern (Stand 1. Jänner 2017).
+#**Sonnberg im MÃ¼hlkreis**
+
+Sonnberg im MÃ¼hlkreis ist eine Gemeinde in OberÃ¶sterreich im Bezirk Urfahr-Umgebung im oberen MÃ¼hlviertel mit 941 Einwohnern (Stand 1. JÃ¤nner 2017).
 Die Gemeinde liegt im Gerichtsbezirk Urfahr.
 
-Geografie
-Sonnberg im Mühlkreis liegt auf einer Höhe von 740 m ü. A. im oberen Mühlviertel. Die Ausdehnung beträgt von Nord nach Süd 5,2 km und von West nach Ost 4,1 km.
-Die Gesamtfläche beträgt 12,7 km².
+##Geografie
+Sonnberg im MÃ¼hlkreis liegt auf einer HÃ¶he von 740 m Ã¼. A. im oberen MÃ¼hlviertel. Die Ausdehnung betrÃ¤gt von Nord nach SÃ¼d 5,2 km und von West nach Ost 4,1 km.
+Die GesamtflÃ¤che betrÃ¤gt 12,7 kmÂ².
 
-Ortsteile
+##Ortsteile
 Albrechtschlag
 Dreiegg
 Rudersbach
 Sonnberg
 
-Wappen
-Blasonierung: In Blau hinter einem grünen Hügel, darin vier silberne, bogenförmig nach dem Unterrand gestellte Scheiben,
-aufgehend eine goldene Sonne. Die Gemeindefarben sind Blau-Weiß-Grün.
+##Wappen
+Blasonierung: In Blau hinter einem grÃ¼nen HÃ¼gel, darin vier silberne, bogenfÃ¶rmig nach dem Unterrand gestellte Scheiben,
+aufgehend eine goldene Sonne. Die Gemeindefarben sind Blau-WeiÃŸ-GrÃ¼n.
 
 Das 1987 verliehene Gemeindewappen versinnbildlicht mit der Sonne und dem Berg als redendes Wappen den Ortsnamen.
 Die silbernen Scheiben beziehen sich auf eine lokale Sage,
 nach der der Teufel beim Bernstein einen Silberschatz vergraben haben soll und verweisen mit der Anzahl auf die vier Ortschaften Albrechtsschlag,
 Dreiegg, Rudersbach und Sonnberg.
 
-Geschichte
-Ursprünglich im Ostteil des Herzogtums Bayern liegend, gehörte der Ort seit dem 12. Jahrhundert zum Herzogtum Österreich.
-Seit 1490 wurde er dem Fürstentum Österreich ob der Enns zugerechnet.
+##Geschichte
+UrsprÃ¼nglich im Ostteil des Herzogtums Bayern liegend, gehÃ¶rte der Ort seit dem 12. Jahrhundert zum Herzogtum Ã–sterreich.
+Seit 1490 wurde er dem FÃ¼rstentum Ã–sterreich ob der Enns zugerechnet.
 
-Während der Napoleonischen Kriege mehrfach besetzt, gehört der Ort seither wieder zu Oberösterreich.
+WÃ¤hrend der Napoleonischen Kriege mehrfach besetzt, gehÃ¶rt der Ort seither wieder zu OberÃ¶sterreich.
 
-Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 wurde Oberösterreich zum Gau Oberdonau.
-Nach 1945 erfolgte die Wiederherstellung Oberösterreichs.
+Nach dem Anschluss Ã–sterreichs an das Deutsche Reich am 13. MÃ¤rz 1938 wurde OberÃ¶sterreich zum Gau Oberdonau.
+Nach 1945 erfolgte die Wiederherstellung OberÃ¶sterreichs.
 
-Im Jahre 1875 wurde Sonnberg der Gemeinde Hellmonsödt angegliedert. Seit 1919 ist Sonnberg wieder eigenständig.
+Im Jahre 1875 wurde Sonnberg der Gemeinde HellmonsÃ¶dt angegliedert. Seit 1919 ist Sonnberg wieder eigenstÃ¤ndig.
+
+---
+[Quelle](https://de.wikipedia.org/wiki/Sonnberg_im_M%C3%BChlkreis)
