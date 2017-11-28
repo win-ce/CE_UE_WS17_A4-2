@@ -1,6 +1,6 @@
 #**Sonnberg im Mühlkreis**
 
-Sonnberg im Mühlkreis ist eine Gemeinde in Oberösterreich im Bezirk Urfahr-Umgebung im oberen Mühlviertel mit 941 Einwohnern (Stand 1. Jänner 2017).
+[Sonnberg im Mühlkreis](https://de.wikipedia.org/wiki/Sonnberg_im_M%C3%BChlkreis) ist eine Gemeinde in Oberösterreich im Bezirk Urfahr-Umgebung im oberen Mühlviertel mit 941 Einwohnern (Stand 1. Jänner 2017).
 Die Gemeinde liegt im Gerichtsbezirk Urfahr.
 
 ##Geografie
@@ -14,6 +14,8 @@ Rudersbach
 Sonnberg
 
 ##Wappen
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wappen41623.jpg/100px-Wappen41623.jpg)
+
 Blasonierung: In Blau hinter einem grünen Hügel, darin vier silberne, bogenförmig nach dem Unterrand gestellte Scheiben,
 aufgehend eine goldene Sonne. Die Gemeindefarben sind Blau-Weiß-Grün.
 
