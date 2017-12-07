@@ -9,3 +9,5 @@ Currently it has a population of around 2,200 people
 
 [Link-Text](https://en.wikipedia.org/wiki/Aschach_an_der_Donau)
 
+![Alt-Text](C:\Users\ttmai\Desktop\Aufgabe4.2\CE_UE_WS17_A4-2\k01455512\Aschach.tiff "Aschach.tiff")
+
