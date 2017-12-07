@@ -1,6 +1,9 @@
 # Kaplanhof
 Der Kaplanhof ist ein statistischer Bezirk in *Linz*. Er befindet sich östlich der Innenstadt (Bezirk Innere Stadt). Er behergt die (ehemalige) Tabakfabrik sowie Teile des Kepler Universitäts Klinikums (ehemals AKH, UKH, Landes Frauen- und Kinderklinik).
 
+![Luftaufnahme Tabakfabrik](tabakfabrik.jpg "Luftaufnahme Tabakfabrik")
+*Luftaufnahme Tabakfabrik [1]*
+
 ## Lage
 Der Bezirk liegt im Linzer Zentrum, östlich bis nordöstlich des Bezirks Innere Stadt.
 
@@ -29,5 +32,7 @@ Er wurde gebildet aus den Bezirken:
 *Rathausviertel (im wesentlichen das Parkbad-Gelände)
 
 ___
-*Quelle*: [linzwiki.at](http://www.linzwiki.at/wiki/Bezirk_Kaplanhof/)
+## Quellen
+[linzwiki.at](http://www.linzwiki.at/wiki/Bezirk_Kaplanhof/)
 
+[1] *Von Stadt Linz / Screenshot: Christoph Waghubinger (Lewenstein) - Diese Datei ist ein Ausschnitt aus einer anderen Datei: Stadt Linz - Tabakfabrik Linz.webmMediendatei abspielenScreenshot bei 00:00:20(YouTube: Tabakfabrik Linz), CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=64362346*
