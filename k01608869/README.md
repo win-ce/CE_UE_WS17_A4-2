@@ -6,4 +6,4 @@ Das seit dem Jahre 600 v. Chr. zum keltischen Reich Norikum gehörige Gemeindege
 
 Atlanta, GA eigenes Foto
 
-![Atlanta](https://github.com/michaelmoritz/CE_UE_WS17_A4-2/blob/master/k01608869/IMG_20170730_095027.jpg)
+![Atlanta](https://github.com/michaelmoritz/CE_UE_WS17_A4-2/blob/master/k01608869/IMG_20170805_091329.jpg)
