@@ -16,4 +16,4 @@ bei welchem leidenschafltiche Schauspieler ein Theaterstück mittem im Bauernhof 
   
 Noch ein Foto vom Theaterweg: 
 
-![Bild von Theaterweg](/Theaterweg.png)
+![Bild von Theaterweg](Theaterweg.png)
