@@ -12,3 +12,5 @@ sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 Noch ein kleines Foto des Autors dieses Wunderschönen Textes:
+
+![Bild vom Autor](flo.jpg)
