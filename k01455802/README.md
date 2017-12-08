@@ -7,4 +7,4 @@ Quelle Wikipedia https://de.wikipedia.org/wiki/Bad_Zell
 
 Bild
 
-![picture](https://github.com/uuuuuseR/CE_UE_WS17_A4-2/blob/master/k01455802/Katze.png "Katze.png")
+![picture](https://github.com/uuuuuseR/CE_UE_WS17_A4-2/blob/master/k01455802/Katze.jpg "Katze")
