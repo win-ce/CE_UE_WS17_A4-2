@@ -15,4 +15,4 @@ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
 
 Noch ein kleines Foto des Autors dieses Wunderschönen Textes:
 
-![Bild vom Autor](/flo.jpg "Autor")
+![Bild vom Autor](/Flo.jpg "Autor")
