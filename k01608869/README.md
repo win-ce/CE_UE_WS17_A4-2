@@ -1,18 +1,9 @@
-# CE_UE_WS17_A4-2
-Dieses Repository dient als Basis für die Aufgabe 4.2 in der Übung CE an der JKU in Wintersemester 2017
+*Ostermiething* liegt auf 423 m Höhe am Südrand des Oberen Weilhartsforstes im Oberen Innviertel. Westlich bildet die Salzach die Grenze zu Bayern. Die bayrische Stadt Tittmoning ist über eine Brücke erreichbar. Die Ausdehnung beträgt von Nord nach Süd 8,1 km, von West nach Ost 9,4 km. Die Gesamtfläche beträgt 21,7 km². 25,8 % der Fläche sind bewaldet, 59,9 % der Fläche sind landwirtschaftlich genutzt
 
-Wenn Sie diese Datei gefunden haben, haben Sie erfolgreich auf das Repository zugegriffen. Bevor Sie Änderungen vornehmen, erstellen Sie bitte einen Fork in Ihren Account (GitHub Web-Interface: Button rechts oben) und klonen das geforkte Repository auf Ihren Rechner.
+Das seit dem Jahre 600 v. Chr. zum keltischen Reich Norikum gehörige Gemeindegebiet wird 15 v. Chr. dem römischen Imperium eingegliedert und verbleibt bis 400 n. Chr. unter römischer Herrschaft. Um 500 errichten die Agilolfinger in Ostermiething einen Wirtschaftshof, der unter den Franken zu einer königlichen Pfalz erhoben wird. Von 739 bis 1784 untersteht Ostermiething dem Erzbistum Salzburg, sodann dem Bistum Linz. 740 wird Ostermiething in einer Schenkungsurkunde des Herzogs Odilo an die Zelle des heiligen Maximilian in Bischofshofen erstmals als Ostermuntingin urkundlich erwähnt. Unter Bayernherzog Heinrich dem Löwen wurde 1163 die Pfarre Ostermiething errichtet. Jahrhundertelang gehörte Ostermiething zu Bayern. Durch den Frieden von Teschen im Jahre 1779 kam das gesamte Innviertel mit Ostermiething zu Österreich. Während der Napoleonischen Kriege wieder kurz bayrisch, gehört der Ort durch Beschluss des Wiener Kongresses seit 1814 zu Oberösterreich. Am 6. Dezember 1927 wird die Gemeinde zum Markt erhoben. Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum Gau Oberdonau, nach 1945 erfolgte die Wiederherstellung Oberösterreichs.
 
-## Aufgabe
-Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen Sie folgende Aufgaben:
-1. Erstellen Sie ein Verzeichnis, dessen Name ihre Matrikelnummer (8 Ziffern, mit führendem k) ist.
-2. Legen Sie in diesem Verzeichnis eine Datei mit dem Namen "README.md" an und bearbeiten Sie diese mit einem Plain-Text-Editor. Unter Verwendung der Markdown-Syntax beschreiben Sie kompakt (max. 500 Wörter) den Ort, in dem Sie wohnen. Texte dürfen aus anderen Quellen übernommen werden, sofern Sie diese in Ihrer Datei verlinken. 
-3. Committen Sie alle Änderungen in ihr lokales Repository.
-4. Erstellen Sie nun einen Branch mit dem Namen "revision".
-5. Checken Sie diesen Branch aus. 
-6. Binden Sie nun in ihr README.md mindestens ein Bild ein, dass Sie ebenfalls im Repository ablegen. Achten Sie bei der Übernahme von Bildern auf lizenzrechtliche Fragen (nur Bilder unter freier Lizenz oder selbst gemachte Bilder verwenden).
-7. Committen Sie erneut alle Änderungen.
-8. Mergen Sie nun den Branch "revision" mit dem ursprünglichen Branch (üblicherweise: "master"). Lösen Sie dabei etwaige Konflikte so auf, dass die Änderungen aus dem Branch "revision" übernommen werden.
-9. Pushen Sie ihr lokales Repository nun zu GitHub.
+[Quelle: Wikipedia](https://de.wikipedia.org/wiki/Ostermiething)
 
-Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
+Atlanta, GA eigenes Foto
+
+![Atlanta](https://github.com/michaelmoritz/CE_UE_WS17_A4-2/blob/master/k01608869/IMG_20170730_095027.jpg)
