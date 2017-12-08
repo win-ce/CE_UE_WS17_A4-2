@@ -17,4 +17,4 @@ Zusätzlich gibt es jedes Jahr das berühmte Theater im Bauernhauf,  bei welchem l
   
 Noch ein Foto vom Theaterweg: 
 
-![Bild von Theaterweg](C:\Users\anjag\Documents\GitHub\CE_UE_WS17_A4-2\k01616452/Theaterweg.jpg)
+![Alt-Text](C:\Users\anjag\Documents\GitHub\CE_UE_WS17_A4-2\k01616452/Theaterweg.jpg "Theaterweg")
