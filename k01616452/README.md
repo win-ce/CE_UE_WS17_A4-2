@@ -1,4 +1,7 @@
-# Sankt Josef im Grünen Herzen Österreichs 
+# Sankt Josef im Grünen Herzen Österreichs  
+  
+ 
+[Gemeindewebsite](http://www.st-josef.steiermark.at/ )
 
 Die Gemeinde Sankt Josef (Weststeiermark) liegt im weststeirischen Hügelland zwischen 313 m und 423 m Seehöhe.  
 Ca. 25 km südwestlich von Graz gelegen, erreicht man die Gemeinde Sankt Josef über die A2-Südautobahn Abfahrt  
@@ -11,4 +14,6 @@ von spielerischer Körpererfahrung bis zum gereiften Rollenspiel.
 Zusätzlich gibt es jedes Jahr das berühmte Theater im Bauernhauf,  
 bei welchem leidenschafltiche Schauspieler ein Theaterstück mittem im Bauernhof auf Mundart vorführen.  
   
-Noch ein Foto vom Bauerntheater: 
+Noch ein Foto vom Theaterweg: 
+
+![Bild von Theaterweg](/Theaterweg.png)
