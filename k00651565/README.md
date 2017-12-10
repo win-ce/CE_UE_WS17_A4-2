@@ -33,3 +33,5 @@ Leonding ist mit 28.081 Einwohnern die viertgrößte Stadt in Oberösterreich. I
 *Staudach
 
 [Quelle](https://de.wikipedia.org/wiki/Leonding)
+
+![Bild](wintry-2993370_640.jpg "Winter is coming")
