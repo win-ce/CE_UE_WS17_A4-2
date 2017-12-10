@@ -25,3 +25,5 @@ zahlreiche feste Institutionen das Linzer Kulturgeschehen. Bekannt ist das Bruck
 Orchester Linz ein Symphonie und Opernorchester. 
 
 Quelle: <https://de.wikipedia.org/wiki/Linz#Kultur>
+
+![Alt-Text](C:\Users\tomic\Desktop/mik.png)
