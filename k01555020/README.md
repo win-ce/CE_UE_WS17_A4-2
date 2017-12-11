@@ -20,4 +20,4 @@ Zwischen 2001 und 2011 konnten insbesondere die Ortschaften Asten und Raffelstet
 
 [Wikipedia, Asten. https://de.wikipedia.org/wiki/Asten (11.12.2017)]
 
-![Mein Bild](/schoenesBild.jpg)
+![Mein Bild](https://github.com/LampD/CE_UE_WS17_A4-2/blob/master/k01555020/schoenesBild.png)
