@@ -19,3 +19,5 @@ Die südlich gelegene Rotte Ipfdorf war hingegen mit 64 Gebäuden und 228 Einwoh
 Zwischen 2001 und 2011 konnten insbesondere die Ortschaften Asten und Raffelstetten an Einwohnern zulegen. 2011 kam Asten auf 3.158 Einwohner, Fisching hatte 1.996, Raffelstetten 850 und Ipfdorf 216 Einwohner.
 
 [Wikipedia, Asten. https://de.wikipedia.org/wiki/Asten (11.12.2017)]
+
+![Mein Bild](/schoenesBild.jpg)
