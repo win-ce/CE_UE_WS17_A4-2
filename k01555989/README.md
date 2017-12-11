@@ -1,6 +1,6 @@
 # Kaprun
 
-![kaprun](/kaprun.jpeg)
+![kaprun](https://github.com/lukas-bernert/CE_UE_WS17_A4-2/blob/master/k01555989/kaprun.jpeg)
 
 KAPRUN is located in SalzburgerLand in Austria, home to around 3,000 permanent residents and almost 1,000 owners of second homes. The more than 770,000 annual overnights attest to this community's importance for tourism. There is much to experience in the Zell am See - KAPRUN region. Kaprun offers numerous special events and a wide variety of sporting and recreational opportunities.
 The name KAPRUN encompasses the Kitzsteinhorn - Salzburg's only glacier ski area at an elevation of 3,203 m and Summit World 3000, Salzburg's highest lookout platform - easily reachable by lift.
