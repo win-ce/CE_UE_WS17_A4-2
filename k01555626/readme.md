@@ -26,7 +26,7 @@ Das Gemeindegebiet umfasst folgende 9 Ortschaften:
 9. Schlägl
 
 ## Quelle
-[Quelle] (https://de.wikipedia.org/wiki/Aigen-Schl%C3%A4gl)
+[Quelle](https://de.wikipedia.org/wiki/Aigen-Schl%C3%A4gl)
 
 ## Beispielbild
-![Bildtext] (https://github.com/thomaslichtenauer/CE_UE_WS17_A4-2/blob/master/k01555626/IMG_6084.JPG)
+![Bildtext](https://github.com/thomaslichtenauer/CE_UE_WS17_A4-2/blob/master/k01555626/IMG_6084.JPG)
