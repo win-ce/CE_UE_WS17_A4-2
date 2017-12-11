@@ -10,3 +10,23 @@ entlang der geschlossenen Waldgrenze des sogenannten „Hohen Böhmerwaldes“.
 
 Die Gemeindefläche umfasst 45,87 km². Nachbargemeinden sind Ulrichsberg in Westen, Peilstein im Mühlviertel im äußersten Südwesten, Oepping im Südwesten,
 Rohrbach-Berg im Süden sowie St. Oswald bei Haslach im Südosten. Im Norden und Osten grenzt Schlägl an die Tschechische Republik bzw. den Okres Ceský Krumlov.
+
+
+##Gemeindegliederung
+Das Gemeindegebiet umfasst folgende 9 Ortschaften:
+
+1. Aigen im Mühlkreis
+2. Baureith
+3. Breitenstein
+4. Diendorf
+5. Geiselreith
+6. Grünwald
+7. Rudolfing
+8. St. Wolfgang
+9. Schlägl
+
+##Quelle
+[Quelle] (https://de.wikipedia.org/wiki/Aigen-Schl%C3%A4gl)
+
+##Beispielbild
+[!Bildtext]
