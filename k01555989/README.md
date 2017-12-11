@@ -6,3 +6,4 @@ The Maiskogel, too, is a popular excursion destination in summer, as well as a v
 For fans of wellness there is TAUERN SPA Zell am See - KAPRUN. At one of the most modern wellness attractions anywhere in the Alps, 11 in- and outdoor pools invite guests to discover total relaxation. Aside from the sauna area with 10 different saunas and steam baths, the treatment facilities are also beyond compare.
 Kaprun also became famous for its hydroelectric power plants. The imposing high-mountain reservoirs at around 2,000 m above sea level are a popular attraction for visitors. Skiing (also in summer on the glacier), golf, mountain biking, swimming, hiking, relaxation, and much more, all represent very special experiences in the Zell am See - Kaprun region.
 
+http://www.kaprun.at/en/home.html
