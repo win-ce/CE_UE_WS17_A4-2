@@ -43,3 +43,9 @@ Blasonierung: In Blau zwei goldene, schräggekreuzte und gestürzte Schwerter, d
 ___
 ___
 [Quelle](https://de.wikipedia.org/wiki/Wendling)
+
+___
+___
+
+## Bild im Branch revision eingefügt
+![](https://cdn.pixabay.com/photo/2013/07/13/13/34/flag-161110__340.png)
