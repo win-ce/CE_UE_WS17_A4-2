@@ -1,4 +1,6 @@
-#**Weibern <https://de.wikipedia.org/wiki/Weibern_(Ober%C3%B6sterreich)>
+# Weibern  
+<https://de.wikipedia.org/wiki/Weibern_(Ober%C3%B6sterreich)>
+
 Weibern ist eine Gemeinde in Oberösterreich im Bezirk Grieskirchen im Hausruckviertel mit 1710 Einwohnern (Stand 1. Jänner 2017). Die Gemeinde liegt im Gerichtsbezirk Grieskirchen.
 Weibern liegt auf einer Höhe von 441 m ü. A. im Hausruckviertel. Die Ausdehnung beträgt von Nord nach Süd 5,6 km, von West nach Ost 5,7 km. Die Gesamtfläche beträgt 17,4 km². 11,4 % der Fläche sind bewaldet, 76 % der Fläche werden landwirtschaftlich genutzt.
 Das Gemeindegebiet umfasst folgende 22 Ortschaften (in Klammern Einwohnerzahl Stand 31. Oktober 2011[1]):
@@ -26,15 +28,15 @@ Das Gemeindegebiet umfasst folgende 22 Ortschaften (in Klammern Einwohnerzahl St
 +   Untermeggenbach (81)
 +   Weibern (630)
 
-##Die Gemeinde besteht aus den Katastralgemeinden Dirisam, Schwarzgrub und Weibern.
+###### Die Gemeinde besteht aus den Katastralgemeinden Dirisam, Schwarzgrub und Weibern.  
 
-##Wappen
-![Weibern](https://github.com/1153275/CE_UE_WS17_A4-2/blob/revision-1/k01153275/Weibern-wappen-Weibern-4675.png)
-  Blasonierung: Geteilt; oben in Rot eine goldene, stilisierte Krone, die unten auf der Teilungslinie in Form eines Doppelsturzsparrens, oben in den   Schildecken und zwischen diesen in der Mitte in Spitzen endet; unten von Blau und Silber mit zweieinhalb rechten Spitzen gespalten. Die Gemeindefarben sind Rot-Gelb-Blau.
+###  Wappen  
+![Weibern](https://github.com/1153275/CE_UE_WS17_A4-2/blob/revision-1/k01153275/Weibern-wappen-Weibern-4675.png)  
+Blasonierung: Geteilt; oben in Rot eine goldene, stilisierte Krone, die unten auf der Teilungslinie in Form eines Doppelsturzsparrens, oben in den   Schildecken und zwischen diesen in der Mitte in Spitzen endet; unten von Blau und Silber mit zweieinhalb rechten Spitzen gespalten. Die Gemeindefarben sind Rot-Gelb-Blau.
   
 Die obere Hälfte des 1972 verliehenen Gemeindewappens zeigt ein   stilisiertes „W“ als Initiale des Ortsnamens, die blauen Spitzen stehen für die Herleitung des Namens, der „Weiher“ bedeutet (ahd. wiwari, aus lat. vivarium)
 
-##Geschichte
+### Geschichte
 Ursprünglich im Ostteil des Herzogtums Bayern liegend, gehörte der Ort seit dem 12. Jahrhundert zum Herzogtum Österreich. Seit 1490 wird er dem   Fürstentum Österreich ob der Enns zugerechnet.
 Während der Napoleonischen Kriege war der Ort mehrfach besetzt.
 Seit 1918 gehört der Ort zum Bundesland Oberösterreich. Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum Gau Oberdonau. Nach 1945 erfolgte die Wiederherstellung Oberösterreichs.
