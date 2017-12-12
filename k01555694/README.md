@@ -10,3 +10,5 @@ Pabneukirchen liegt auf 571 m Höhe im Mühlviertel. Die Ausdehnung beträgt von
 Offizielle Beschreibung des Gemeindewappens: In Schwarz auf goldenem Dreiberg ein goldener, auf der mittleren und hinteren Kuppe aufrecht stehender Steinbock, an einem aus der vorderen Kuppe wachsenden, grün beblätterten Haselstrauch mit roten Früchten äsend.
 
 [Quelle](https://de.wikipedia.org/wiki/Pabneukirchen)
+
+![Katze](kitten-2558459_640.jpg)
