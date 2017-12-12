@@ -3,7 +3,7 @@
 Marchtrenk liegt in Oberösterreich und befindet sich im Bezirk Wels-Land. Die Stadtgemeinde hat in etwa 14000 Einwohner.
 
 ##Wappen
-![Wappen](https://github.com/migschp/CE_UE_WS17_A4-2/blob/master/ultrahd-16k-Wappen.png)
+![Wappen](https://github.com/migschp/CE_UE_WS17_A4-2/blob/master/k01623951/ultrahd-16k-Wappen.png)
 
 ##Lage
 Marchtrenk liegt direkt neben Wels und auf einer Seehöhe von 304m und grenzt an das Traunviertel an. Die Gesamtfläche beträgt ca. 23km^2, wovon ein Großteil landwirtschaftlich genutzt wird.
