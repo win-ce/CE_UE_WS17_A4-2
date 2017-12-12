@@ -21,6 +21,8 @@ im Süden an den Stadtteil Innenstadt und im Westen an die Nachbargemeinden Gram
 * Der letzte Pöstlingberger Bürgermeister Johann Schöfdoppler (Amtszeit 1893–1919), er war Greißler und Ansichtskartenverleger, 
 ließ 1901 vom Münchner Architekten Fritz Hessemer die Villa Schöfdoppler-Casagrande (Am Pöstlingberg 11) errichten. Schöfdoppler 
 war auch Begründer der Pöstlingberger Feuerwehr. In dieser Zeit wurde auch der Musikverein Pöstlingberg gegründet. 1901/02 
-wurde die Volksschule erbaut, 1903 wurde das Gemeindeamt in der heutigen Samhaberstraße 50 von Baumeister Johann Weixelbaumer errichtet (heute Feuerwehr).[5]
+wurde die Volksschule erbaut, 1903 wurde das Gemeindeamt in der heutigen Samhaberstraße 50 von Baumeister Johann Weixelbaumer errichtet (heute Feuerwehr).
 
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Pöstlingberg_(Stadtteil))
+
+![Bild von Linz](http://www.ywopikaf.com/Linz.jpg)
