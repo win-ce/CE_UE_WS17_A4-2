@@ -1,11 +1,11 @@
-﻿#Amstetten  
+﻿# Amstetten  
 Amstetten ist eine Stadt im Südwesten Niederösterreichs, dem Mostviertel. 
 Sie ist Sitz der Bezirkshauptmannschaft Amstetten und zählt 23.621 Einwohner.
 
-##Wappen
-![Wappen](https://github.com/HannahFehringer/CE_UE_WS17_A4-2/blob/master/k01526295/ultrahd-16k-Wappen_AS.png)
+## Wappen
+![Wappen](https://github.com/HannahFehringer/CE_UE_WS17_A4-2/blob/master/k01526295/ultrahd-16k-Wappen_AS.png.jpeg)
 
-##Geografie
+## Geografie
 Die Stadtgemeinde Amstetten liegt an historisch-traditionellen, topographisch 
 vorgegebenen Durchzugswegen – als Nadelöhr zwischen den Voralpen im Süden, 
 sowie dem granitenen Ausläufer der Böhmischen Platte, die hier von der 
@@ -18,8 +18,8 @@ militärischer Sicherung, die Amstetten bis zur Grenze des Bestands führe,
 und der gestiegenen Bedeutung des Transports, mit dem Amstettens Bedeutung 
 traditionell direkt zusammenhängt – gefördert.
 
-##Wirtschaft und Infrastuktur
-###Verkehr
+## Wirtschaft und Infrastuktur
+### Verkehr
 Amstetten liegt an der Westbahnstrecke, nach Südwesten gibt es zusätzlich 
 mit der Bahnstrecke Amstetten–Kastenreith eine Verbindung zur Rudolfsbahn.
 
