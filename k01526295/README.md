@@ -2,6 +2,9 @@
 Amstetten ist eine Stadt im Südwesten Niederösterreichs, dem Mostviertel. 
 Sie ist Sitz der Bezirkshauptmannschaft Amstetten und zählt 23.621 Einwohner.
 
+##Wappen
+![Wappen](https://github.com/HannahFehringer/CE_UE_WS17_A4-2/blob/master/k01526295/ultrahd-16k-Wappen_AS.png)
+
 ##Geografie
 Die Stadtgemeinde Amstetten liegt an historisch-traditionellen, topographisch 
 vorgegebenen Durchzugswegen – als Nadelöhr zwischen den Voralpen im Süden, 
