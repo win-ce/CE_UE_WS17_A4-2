@@ -6,13 +6,4 @@ Meine Heimatgemeinde St. Marien (Sankt Marien) ist eine Gemeine im Bezirk Linz L
 Sie zaehle am 1. Jaenner 2017 4701 Einwohner und is mit 37,6 Quadratkilometer die zweitgroesste Gemeinde im Bezirk Linz Land.
 Die Gemeinde legt ihren wirtschaftlichen Schwerpunkt auf Landwirtschaft.
 
-[C:\Users\PC\Documents\GitHub\CE_UE_WS17_A4-2\k01555095\CE_UE_WS17_A4-2\k01555095]
-
-
-
-
-
-
-
-
-
+![Schneelandschaft](https://github.com/Mursch92/CE_UE_WS17_A4-2/blob/master/k01555095/picture.jpg)
