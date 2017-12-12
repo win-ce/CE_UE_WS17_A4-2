@@ -3,4 +3,5 @@ Taipeh (chinesisch, Pinyin Táibei Shì, W.-G. T’ai-pei shih, Pe?h-oe-ji Tâi-pak-c
 Source : https://de.wikipedia.org/wiki/Taipeh
 
 Picture(selbst gemacht):
-![Taipei](https://github.com/mayrhelmut/CE_UE_WS17_A4-2/blob/master/k01555094/P1000086.JPG)
+![Taipei](https://github.com/mayrhelmut/CE_UE_WS17_A4-2/blob/master/k01555094/P1000086.JPG) 
+
