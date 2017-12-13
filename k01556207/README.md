@@ -11,7 +11,7 @@ von Linz-Land und Urfahr-Umgebung.
 ### Geschichte
 
 Nach dem Ende des Zweiten Weltkriegs, 1945, hatte Linz lange den Ruf einer staubigen Stahlstadt, den sie dem größten Arbeitgeber, 
-den Stahlwerken der Voestalpine AG, verdankte. Doch durch verbesserten Umweltschutz und zahlreiche Initiativen im Kulturbereich, 
+den Stahlwerken der Voestalpine AG, verdankte.  Doch durch verbesserten Umweltschutz und zahlreiche Initiativen im Kulturbereich, 
 beispielsweise Veranstaltungen wie die Linzer Klangwolke, das Brucknerfest, das Pflasterspektakel und den Prix Ars Electronica bzw. 
 das Ars-Electronica-Festival, gewinnt die Stadt sukzessive ein neues Image. Seit 2004 wird jährlich das Filmfestival Crossing Europe 
 veranstaltet. Linz konnte sich – zuletzt mit dem 2013 eröffneten neuen Musiktheater am Volksgarten, einem Landestheater, 
