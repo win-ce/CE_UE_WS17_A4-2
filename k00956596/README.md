@@ -6,4 +6,4 @@ Bekannt ist die Stadt heute vor allem als Sitz einiger großer Industrieunterneh
 
 [Text von Wikipedia](https://de.wikipedia.org/wiki/Leonding)
 
-![Alt-Text](k00956596/iAmAFriendlyGoat.jpg)
+![Way better](https://github.com/Patrick19892209/CE_UE_WS17_A4-2/k00956596/iAmAFriendlyGoat.jpg)
