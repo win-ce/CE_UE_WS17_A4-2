@@ -16,4 +16,7 @@ Offizielle Beschreibung des 1972 verliehenen Gemeindewappens:
 Über grünem Dreiberg in Gold zwei rote, schräggekreuzte Schlüssel mit abgewendeten Bärten und Griffen in Dreipassform. 
 Die Gemeindefarben sind Rot-Gelb-Grün
 
+![alt text] (https://upload.wikimedia.org/wikipedia/commons/5/57/WappenStPeterWbg.jpg)
+
 Quelle: https://de.wikipedia.org/wiki/St._Peter_am_Wimberg
+
