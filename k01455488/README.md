@@ -23,4 +23,4 @@ Die umsatzstärksten Unternehmen mit Firmensitz im Stadtgebiet sind in absteigen
 
 [Wels Stadt - Wikipedia](https://de.wikipedia.org/wiki/Wels_(Stadt))
 
-![alt text](https://github.com/CE_UE_WS17_A4-2/k01455488/IMG_6566.JPG "Bild 1")
+![alt text](https://github.com/Huz15/CE_UE_WS17_A4-2/k01455488/IMG_6566.JPG "Bild 1")
