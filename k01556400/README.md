@@ -22,4 +22,4 @@ Der Gemeinderat hat insgesamt 25 Mitglieder. Mit den Gemeinderats- und Bürgermei
 ##Link##  
 [Kopfing im Innkreis - Wikipedia](https://de.wikipedia.org/wiki/Kopfing_im_Innkreis)    
 
-[Eine Kappelle am Rande von Kopfing](C:\Users\Lukas\Documents\GitHub\CE_UE_WS17_A4-2\k01556400\Kopfing_Lukas.jpg)
+![Eine Kappelle am Rande von Kopfing](C:\Users\Lukas\Documents\GitHub\CE_UE_WS17_A4-2\k01556400\Kopfing_Lukas.jpg)
