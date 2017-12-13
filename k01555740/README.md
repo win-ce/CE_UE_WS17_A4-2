@@ -9,3 +9,5 @@ Nach dem Ende des Zweiten Weltkriegs, 1945, hatte Linz lange den Ruf einer staub
 Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste bekannte Tortenrezept der Welt gilt. 
 
 https://de.wikipedia.org/wiki/Linz
+
+![Alt-Text](C:\Users\Lukas\Documents\GitHub\CE_UE_WS17_A4-2\k01555740/lizenzfreie-bilder-fotos.jpg)
