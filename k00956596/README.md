@@ -5,3 +5,5 @@ Bis in die erste Hälfte des 20. Jahrhunderts mit etwa 5.000 Einwohner weitgehen
 Bekannt ist die Stadt heute vor allem als Sitz einiger großer Industrieunternehmen sowie als grünes, teilweise durchaus noch ländliches Wohngebiet am Rande der Großstadt Linz. Gemeinsam mit seinen Nachbargemeinden gehört Leonding zum zweitgrößten Ballungsraum der Republik Österreich.
 
 [Text von Wikipedia](https://de.wikipedia.org/wiki/Leonding)
+
+![Alt-Text](k00956596/iAmAFriendlyGoat.jpg)
