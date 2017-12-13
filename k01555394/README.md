@@ -5,3 +5,4 @@ Lichtenberg ist eine typische Einzugsgemeinde des Ballungsraums Linz mit einem h
 Das Stadtzentrum von Linz lässt sich mit dem Auto in etwa 20 Minuten erreichen.
 
 [Quelle] (https://de.wikipedia.org/wiki/Lichtenberg_(Ober%C3%B6sterreich))
+![Bild](https://i.imgur.com/Vgpwrxy.jpg)
