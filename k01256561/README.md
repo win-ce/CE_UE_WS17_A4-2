@@ -14,6 +14,6 @@ In Lazarevo gibt es auch zwei katholische Sakralbauten. Das Mariastern-Trappiste
 Bekannt ist auch das oberhalb der Stadt gelegene Partisanendenkmal Banj Brdo oder Šehitluci des Bildhauers Antun Augustincic. Sehenswert ist außerdem das Kastel, eine Festung, die durch die Römer erbaut wurde und während der Zugehörigkeit zum Osmanischen Reich für dessen Zwecke verkleinert wurde.
 Im nördlichen Teil der Stadt in Zaluzani befindet sich die einzige Rennstrecke Bosnien-Herzegowinas. Es werden zwar oft Rennen ausgetragen, doch sie sind von geringer Bedeutung. Momentan sucht man nach Investoren, um die Rennstrecke und ihre Infrastruktur auf internationalen Standard auszubauen.
 
-
+Ein Bild ![](C:\Users\majad\OneDrive\Documents\GitHub\k01256561)
 
 Quelle (https://de.wikipedia.org/wiki/Banja_Luka)
