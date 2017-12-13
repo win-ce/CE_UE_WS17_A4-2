@@ -1,4 +1,4 @@
-#St.Peter am Wimberg
+# St.Peter am Wimberg
 
 St. Peter am Wimberg (auch Sankt Peter am Wimberg) ist eine Marktgemeinde in Oberösterreich 
 im Bezirk Rohrbach im oberen Mühlviertel mit 1775 Einwohnern (Stand 1. Jänner 2017). 
@@ -17,7 +17,7 @@ Offizielle Beschreibung des 1972 verliehenen Gemeindewappens:
 Über grünem Dreiberg in Gold zwei rote, schräggekreuzte Schlüssel mit abgewendeten Bärten und Griffen in Dreipassform. 
 Die Gemeindefarben sind Rot-Gelb-Grün
 
-![alt text] (https://raw.githubusercontent.com/MichiLor/CE_UE_WS17_A4-2/master/k01621996/WappenStPeterWbg.jpg)
+![alt text](https://raw.githubusercontent.com/MichiLor/CE_UE_WS17_A4-2/master/k01621996/WappenStPeterWbg.jpg)
 
 Quelle: https://de.wikipedia.org/wiki/St._Peter_am_Wimberg
 
