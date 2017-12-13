@@ -14,6 +14,10 @@
 
 **Wels, die siebtgrößte Stadt Österreichs mit 60.000 Einwohnern, ist nicht nur eine pulsierende Einkaufsstadt mit attraktiven Geschäften und hochwertiger Gastronomie, internationale Kongress- und Messestadt sondern auch eine Stadt mit großem kulturellem und kulinarischem Angebot. Das Thema Energie wird in Wels groß geschrieben, im Welios® entdeckt und erlebt man die Welt  der erneuerbare Energie in einer 3.000 m² großen Mitmachausstellung.**
 
+
+Ein Bild ![irgendetwas](https://github.com/kalimero0073/k01255095/blob/revision/IMG-20160911-WA0008.jpg)
+
+
 Schon sie wussten es, die Römer: Dieser Ort hat’s in sich! Bereits unter Kaiser Hadrian wurde die ehemals keltische Siedlung zur Stadt „Ovilava“ erhoben.
 Die bezaubernde historische Kulisse sowie zahlreiche Veranstaltungshighlights bieten auch für Kulturgenießer einen besonderen Anreiz. Von den Römern wurde sie „Ovilava“ genannt. Schon seit über 2000 Jahren wird Lebenskultur hoch gehalten. Wo Vergangenheit, Gegenwart, und Zukunft harmonisch miteinander verschmelzen, ist eine besonders lebens- und liebenswerte Stadt entstanden. Zwischen prachtvollen Bürgerhäusern und modernen Zweckbauten, romantischen Arkadenhöfen und In-Beisln, urigen Heurigenlokalen und gediegenen Restaurants pulsiert das Leben. Das Flair der Einkaufsstadt Wels wird weit über die regionalen Grenzen hinaus geschätzt. Mehr als 800 Fachgeschäfte, lebhafte Fußgängerzonen, Straßenmusiker und Schanigärten prägen das Stadtbild.
  
