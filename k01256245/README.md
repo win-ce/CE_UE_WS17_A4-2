@@ -10,4 +10,8 @@ Hallwang ist ein kleineres Dorf im Bundesland Salzburg. Es liegt zwischen der St
 
 
 
+Ein Bild von Salzburg: ![Alt-Text][bild]
+
+[bild]: C:\Users\Sophie\Documents\GitHub\k01256245\Sbg.jpg 
+
 
