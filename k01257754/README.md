@@ -20,3 +20,5 @@ Gemeinsam mit seinen Nachbargemeinden gehört Leonding zum zweitgrößten Ballun
 Während der Name der Stadt in Leonding meist auf der ersten Silbe betont wird ([ˈleːɔ̯nd̥iŋ]), liegt die Betonung im Rest Österreichs üblicherweise auf dem o ([leˈɔnd̥iŋ]). 
 
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Leonding)
+
+![Bild von Leonding](https://de.wikipedia.org/wiki/Leonding#/media/File:Leonding_Stadtplatz_Weihnachten.jpg)
