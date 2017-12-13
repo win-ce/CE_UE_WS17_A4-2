@@ -9,3 +9,5 @@ Die Voestalpine AG, ein großes Industrieunternehmen, hat ihren Sitz in Linz. Es 
 ## Politik ##
 
 Linz hat aktuell einen SPÖ-B&uumlrgermeister - Klaus Luger. Im Gemeinderat entfallen 20 von 61 Sitzen auf die SPÖ, 16 auf die FPÖ, zwölf auf die ÖVP, neun auf die Grünen, drei auf die NEOS und einer auf die KPÖ
+
+![Bild von der Beschreibung](E:\GitHub\CE_UE_WS17_A4-2\k01604323\Bild.png)
