@@ -22,3 +22,5 @@ Es gibt dort Firmen der chemischen Industrie, Möbelerzeuger, Maschinenbauer und
 Die umsatzstärksten Unternehmen mit Firmensitz im Stadtgebiet sind in absteigender Reihenfolge XXXLutz, Intersport Austria, Doppler Mineralöle, 3e, Sport Eybl & Sports Experts und Felbermayr.
 
 [Wels Stadt - Wikipedia](https://de.wikipedia.org/wiki/Wels_(Stadt))
+
+![alt text](https://github.com/CE_UE_WS17_A4-2/k01455488/IMG_6566.JPG "Bild 1")
