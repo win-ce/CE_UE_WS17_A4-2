@@ -1,3 +1,3 @@
 Mauer bei Amstetten gehört seit der Gemeindezusammenlegung im Jahr 1972 zur Stadtgemeinde Amstetten und war zuvor eine selbständige Gemeinde, zu welcher auch die Ortsteile Greinsfurth und Neufurth gehörten. Die zur ehemaligen Gemeinde Mauer bei Amstetten zugehörigen Orte zählten bei der Volkszählung 2001 zusammen 4.694 Einwohner, davon entfielen auf Mauer (inklusive Spiegelsberg, Waldheim, Winkling, Galtberg, Frauenau und Pilsing) knapp über 2.000 Einwohner, auf Neufurth knapp 1.600 Einwohner und auf Greinsfurth knapp über 1.000 Einwohner. Neufurth zählt seit der Eingemeindung nach Amstetten zum Ortsteil Ulmerfeld-Hausmening.
 
-<![Ping](C:\Users\Patrick\Desktop/latency.png)
+<![Ping](E:\GitHub\CE_UE_WS17_A4-2\k01556231\latency.png)
