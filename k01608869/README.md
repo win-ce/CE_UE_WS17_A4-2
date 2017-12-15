@@ -1,0 +1,9 @@
+**Ostermiething** liegt auf 423 m Höhe am Südrand des Oberen Weilhartsforstes im Oberen Innviertel. Westlich bildet die Salzach die Grenze zu Bayern. Die bayrische Stadt Tittmoning ist über eine Brücke erreichbar. Die Ausdehnung beträgt von Nord nach Süd 8,1 km, von West nach Ost 9,4 km. Die Gesamtfläche beträgt 21,7 km². 25,8 % der Fläche sind bewaldet, 59,9 % der Fläche sind landwirtschaftlich genutzt
+
+Das seit dem Jahre 600 v. Chr. zum keltischen Reich Norikum gehörige Gemeindegebiet wird 15 v. Chr. dem römischen Imperium eingegliedert und verbleibt bis 400 n. Chr. unter römischer Herrschaft. Um 500 errichten die Agilolfinger in Ostermiething einen Wirtschaftshof, der unter den Franken zu einer königlichen Pfalz erhoben wird. Von 739 bis 1784 untersteht Ostermiething dem Erzbistum Salzburg, sodann dem Bistum Linz. 740 wird Ostermiething in einer Schenkungsurkunde des Herzogs Odilo an die Zelle des heiligen Maximilian in Bischofshofen erstmals als Ostermuntingin urkundlich erwähnt. Unter Bayernherzog Heinrich dem Löwen wurde 1163 die Pfarre Ostermiething errichtet. Jahrhundertelang gehörte Ostermiething zu Bayern. Durch den Frieden von Teschen im Jahre 1779 kam das gesamte Innviertel mit Ostermiething zu Österreich. Während der Napoleonischen Kriege wieder kurz bayrisch, gehört der Ort durch Beschluss des Wiener Kongresses seit 1814 zu Oberösterreich. Am 6. Dezember 1927 wird die Gemeinde zum Markt erhoben. Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum Gau Oberdonau, nach 1945 erfolgte die Wiederherstellung Oberösterreichs.
+
+[Quelle: Wikipedia](https://de.wikipedia.org/wiki/Ostermiething)
+
+Atlanta, GA eigenes Foto
+
+![Atlanta](https://github.com/michaelmoritz/CE_UE_WS17_A4-2/blob/master/k01608869/IMG_20170805_091329.jpg)
