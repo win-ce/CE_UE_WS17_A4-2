@@ -1,0 +1,12 @@
+# Linz
+## Allgemein
+Linz ist die Landeshauptstadt von Oberösterreich und mit 203.012 Einwohnern (Stand 1. Jänner 2017) nach Wien und Graz die drittgrößte Stadt Österreichs und das Zentrum des mit 771.695 Menschen zweitgrößten Ballungsraumes der Alpenrepublik.
+Die Stadt an der Donau hat eine Fläche von 96,048 km² und ist Zentrum des oberösterreichischen Zentralraums. Als Statutarstadt ist sie sowohl Gemeinde als auch politischer Bezirk mit Sitz der benachbarten Bezirkshauptmannschaften von Linz-Land und Urfahr-Umgebung.
+Nach dem Ende des Zweiten Weltkriegs, 1945, hatte Linz lange den Ruf einer staubigen Stahlstadt, den sie dem größten Arbeitgeber, den Stahlwerken der Voestalpine AG, verdankte. Doch durch verbesserten Umweltschutz und zahlreiche Initiativen im Kulturbereich, beispielsweise Veranstaltungen wie die Linzer Klangwolke, das Brucknerfest, das Pflasterspektakel und den Prix Ars Electronica bzw. das Ars-Electronica-Festival, gewinnt die Stadt sukzessive ein neues Image. Seit 2004 wird jährlich das Filmfestival Crossing Europe veranstaltet. Linz konnte sich – zuletzt mit dem 2013 eröffneten neuen Musiktheater am Volksgarten, einem Landestheater, – als Kulturstadt positionieren, obwohl Strukturen der alten Industriestadt ebenso wie ländliche Lebensformen nach wie vor sichtbar sind.
+Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste bekannte Tortenrezept der Welt gilt.
+## Geografie
+Linz liegt im östlichen Oberösterreich und erstreckt sich auf beiden Seiten der Donau. Die Nord-Süd-Ausdehnung beträgt 18,6 km, die Ost-West-Ausdehnung 12,3 km. Die Stadt befindet sich im Linzer Becken und grenzt im Westen an den Kürnberger Wald sowie das fruchtbare Eferdinger Becken. Nördlich der Donau, im Stadtteil Urfahr, wird Linz durch den Pöstlingberg (539 m), den Lichtenberg (927 m) und die Hügel bzw. Berge des Mühlviertels begrenzt. Die östliche Stadtgrenze ist durch die Donau markiert, welche das Stadtgebiet in einem nordost-südöstlichen Halbkreis erst durch-, und dann umfließt. Die Traun mündet 7 km südöstlich des Stadtzentrums in die Donau und markiert die innerstädtische Grenze zum größten Stadtteil Ebelsberg. Südlich der Stadt beginnt das Alpenvorland.
+Von den rund 96 km² Stadtfläche sind 29,27 % Grünland, 17,95 % Wald, 6,39 % Gewässer, 11,63 % machen Verkehrsflächen aus und 34,76 % sind Bauland.
+[Quelle](https://de.wikipedia.org/wiki/Linz)
+## Bild
+![picture](https://github.com/danielputschoegl/CE_UE_WS17_A4-2/blob/master/k01555528/bsp.jpg "bsp.jpg")
